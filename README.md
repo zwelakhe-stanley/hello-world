@@ -1,2 +1,4 @@
 # hello-world
-just another(actually first) repository.
+hi developers
+
+i love c++ , i want to master java and python soon though.
